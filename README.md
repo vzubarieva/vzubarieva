@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**vzubarieva/vzubarieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _Hello! I'm Viktoria Zubarieva_ ✨ r
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a full stack software development student at Epicodus. I spent most of the learning coding trough pair programming
+- 🌱 Recently I've finished JavaScript course. Currently I'm studying C# and .Net. Soon I will be learning React. I'm passionate about work and open for new knowledge. Also I'm well organized person who likes planning and time management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Technical skills:
+
+- HTML/CSS
+- JavaScript
+- C#
+- .Net
+
+⚡ About me
+
+Earlier I was working in teaching area, mostly I worked in elementary schools and early childhood development. I was very excited to explore new things with my little students. There I learned to be organized and patient.
+Recently I decided to switch myself in new area and now I am a full stack software development student and I'm very exited about it!
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub Stats](https://github-readme-stats.vercel.api username=vzubarieva&theme=radical)
