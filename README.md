@@ -19,4 +19,4 @@ Recently I decided to switch myself in new area and now I am a full stack softwa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vzubarieva&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzubarieva&theme=radical)](https://github.com/vzubarieva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzubarieva&layout=compact&theme=radical)](https://github.com/vzubarieva/github-readme-stats)
