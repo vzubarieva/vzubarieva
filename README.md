@@ -17,4 +17,4 @@ Recently I decided to switch myself in new area and now I am a full stack softwa
 
 - 📫 How to reach me: ...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=vzubarieva &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vzubarieva&theme=radical)
