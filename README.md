@@ -1,7 +1,5 @@
 ### ✨ _Hello! I'm Viktoria Zubarieva_ ✨👋
 
-<a href="https://github.com/vzubarieva"><img alt="GitHub" /></a>
-
 - 🔭 I’m currently a full stack software development student at Epicodus. I spent most of the learning to code and improving my technical skills.
 - 🌱 Recently I've finished JavaScript course. Currently I'm studying C# and .Net. Soon I will be learning React. I'm passionate about work and open for new knowledge. Also I'm well organized person who likes planning and time management.
 
