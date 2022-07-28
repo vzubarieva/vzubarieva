@@ -1,6 +1,4 @@
-### Hi there 👋
-
-✨ _Hello! I'm Viktoria Zubarieva_ ✨ r
+### ✨ _Hello! I'm Viktoria Zubarieva_ ✨👋
 
 - 🔭 I’m currently a full stack software development student at Epicodus. I spent most of the learning coding trough pair programming
 - 🌱 Recently I've finished JavaScript course. Currently I'm studying C# and .Net. Soon I will be learning React. I'm passionate about work and open for new knowledge. Also I'm well organized person who likes planning and time management.
@@ -19,4 +17,4 @@ Recently I decided to switch myself in new area and now I am a full stack softwa
 
 - 📫 How to reach me: ...
 
-![GitHub Stats](https://github-readme-stats.vercel.api username=vzubarieva&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=vzubarieva &theme=radical)
