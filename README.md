@@ -7,6 +7,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-viktoriiazubarieva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktoriiazubarieva/)](https://www.linkedin.com/in/viktoriiazubarieva/)
   [![Gmail Badge](https://img.shields.io/badge/-viktoria.dubinina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viktoria.dubinina@gmail.com)](mailto:viktoria.dubinina@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vzubarieva&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vzubarieva&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzubarieva&layout=compact&theme=radical)](https://github.com/vzubarieva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzubarieva&layout=compact&theme=radical)](https://github.com/vzubarieva/github-readme-stats) -->
